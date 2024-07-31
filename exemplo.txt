@@ -1,1 +1,3 @@
 Arquivo de exemplo
+
+feito alterações após o git clone
